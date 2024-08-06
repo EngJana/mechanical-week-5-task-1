@@ -15,9 +15,8 @@ This project demonstrates how to create and animate mechanical gears in Blender 
 
 ### Overall Ratio Calculation
 
-\[ 
-\text{Total Ratio} = \frac{60}{10} \times \frac{40}{60} \times \frac{180}{40} = 6 \times \frac{2}{3} \times \frac{9}{2} = 18 
-\]
+Total Ratio = (60 / 10) * (40 / 60) * (180 / 40) 
+= 6 * (2 / 3) * (9 / 2) = 18
 
 ## Setup Instructions
 
