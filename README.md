@@ -27,9 +27,9 @@ This project demonstrates how to create and animate mechanical gears in Blender 
 4. In the 3D Viewport, go to `Add` > `Mesh` > `Gears` to add the gears.
 5. Set the number of teeth for each gear as specified:
    - Gear A: 10 teeth
-   - Gear B: 30 teeth
-   - Gear C: 15 teeth
-   - Gear D: 45 teeth
+   - Gear B: 60 teeth
+   - Gear C: 40 teeth
+   - Gear D: 180 teeth
 
 ### 2. Position Gears
 
